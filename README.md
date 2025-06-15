@@ -1,12 +1,7 @@
-# React + Vite
+add .env file and add ("VITE_APP_ID") in env file and add api key of weather app from open weather website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> To run the website
 
-Currently, two official plugins are available:
+(npm install) to install the packets,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(npm run dev) to run the project
